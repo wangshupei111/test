@@ -48,7 +48,7 @@ $(function(){
     $('body').on('click','.backToTop', function(){
         $('html,body').animate({
             scrollTop:0
-        },30)
+        },300)
     })
     //追加到页面的尾部
     $('body').append($gotoTopHtml)
