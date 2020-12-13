@@ -1,0 +1,17 @@
+.product-Detail{
+    height: 500px;
+    margin: 50px auto;
+}
+.product-Detail .left-box{
+    width: 340px;
+    height: 470px;
+    background-color: #fcfcfc;
+}
+.product-Detail .rigth-box{
+    width: 800px;
+    height: 500px;
+    background-color: pink;
+}
+.magnifier-container{
+    height: 380px !important;
+}
